@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Saniamo Mercy</title>
+    <link>https://saniamo.github.io/saniamo_portfolio/post/</link>
+    <description>Recent content in Projects on Saniamo Mercy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://saniamo.github.io/saniamo_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: Visualising the Coronavirus Pandemic</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 21 Jul 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-5/</guid>
+      <description>Data visualisation is the most effective method to illustrate and explain complex information, especially numerical data, in a simple and digestible manner.
+Data used for visualisation is Novel Corona Virus 2019 dataset from Kaggle, which can be found here
+The dataset is a composite of multiple sources including the World Health Organization, National Health Commission of the People’s Republic of China, and the United States Centers for Disease Control.
+ This project’s GitHub notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Jumia Web Scraping</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-7/</link>
+      <pubDate>Fri, 14 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-7/</guid>
+      <description>The aim of the project is to provide Samsung phones data for:
+ Price-monitoring and Product Research Better Customer analysis Increased productivity Better advertisements Marketing and Sales Strategy  This is made possible through webscarping with Beautifulsoup data on Samsung phones from Jumia Kenya. Data is then saved to to MySQL database.
+ This project’s notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Food Prices in Kenya</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-6/</guid>
+      <description>Prices of food in Kenya has skyrocketed by as much as 25%, primarily a result of political unrest, climate change, and the recent covid-19 pandemic.
+These factors have resulted in limited food supply therefore increasing demand as well as food prices.
+The project aims to provide a detailed analysis of the changes in prices of beans, bread, maize and milk between the years 2006-2021.
+ View Tableau Dashboard</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Photo Translator</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-2/</guid>
+      <description>Python libraries used:
+Pillow: A powerful image-processing library.
+Pytesseract: The library used to recognise text in an image.
+Googletrans: Used in translation.
+Program can be leveraged by learners of new languages.
+The project&amp;rsquo;s objective are:
+ To recognize text from image. Translate recognized text to different languages.  This project’s GitHub notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Gender Gap in Tech as at 2019</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 03 Apr 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-4/</guid>
+      <description>The gender gap in the tech industry is very real — here’s what it looks like
+ Project Overview
+The project explores gender distribution, age distribution, education level, job title distribution by gender and salary gender distribution in Tech.
+From the visualizations:
+ 81.8% of the survey respondents are male and only around 16% are female. Majority of survey respondents are fairly young around 25 to 34 years of age. Majority of survey respondents have a Master’s, or at least a Bachelor’s degree.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Uber Stock Price Prediction</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-3/</link>
+      <pubDate>Fri, 02 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-3/</guid>
+      <description>Uber is today one of the largest technology companies. The project predicts Uber stock price with machine learning using Python.
+Dataset is obtained from Yahoo Finance historical data.
+Decision Tree Regression Algorithm is used to train the Uber Stock Price prediction model.  This project’s GitHub notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 1: TAND-EDU</title>
+      <link>https://saniamo.github.io/saniamo_portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 01 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://saniamo.github.io/saniamo_portfolio/post/chapter-1/</guid>
+      <description>Collaborative project
+status: Work-in-Progress
+Background
+COVID-19 has dramatically reshaped the way global education is delivered. Millions of learners were affected by educational institution closures due to the pandemic, which resulted in the largest online movement in the history of education.
+Africa is one of the continents that is behind in technological advancements, and as such, things like online education were never a priority as there is so much ground to cover in implementing this way of learning and the costs are considered as “expensive”.</description>
+    </item>
+    
+  </channel>
+</rss>
